@@ -172,6 +172,7 @@ Regional Growth Strategies
 
 ***
 
-
+- See my SQL queries in the [SQL file](Exploration/ecommerce_exploration.sql).
+- See the notebook for data cleaning, visualization, and analysis in the [Python Notebook](Exploration/ecommerce_analysis.ipynb).
 
 
