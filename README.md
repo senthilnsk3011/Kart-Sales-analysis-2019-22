@@ -172,8 +172,6 @@ Regional Growth Strategies
 
 ***
 
-- See the raw data and my cleaning, analysis, and pivot tables in the [Excel workbook](Exploration/Kart_ecommerce_analysis.xlsx).
-- See my SQL queries in the [SQL file](Exploration/ecommerce_exploration.sql).
-- See the notebook for data cleaning, visualization, and analysis in the [Python Notebook](Exploration/ecommerce_analysis.ipynb).
-- For more of my projects and data journey, visit my [portfolio website and reach out](https://ruizdelcarmen.me/)!
+
+
 
